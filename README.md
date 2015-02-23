@@ -9,3 +9,5 @@ Talks
 =====
 
 [Evolution of a Gopher](https://speakerdeck.com/campoy/gophercon-india-evolution-of-a-gopher) by Francesc Campoy Flores
+
+[EMBD](https://speakerdeck.com/kunalpowar/gophercon-india-2015-embd) by Kunal Powar
